@@ -3,3 +3,9 @@ The project involved detailed sentiment analysis of financial news articles and 
 
 ## Project Structure
 The project is organized into the following components:
+
+## Conclusions
+
+## Contact Information
+If you have any questions, please contact [simin.yu@columbia.edu].
+
